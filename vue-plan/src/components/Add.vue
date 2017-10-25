@@ -31,7 +31,6 @@
     },
     components: {},
     methods: {}
-
   }
 </script>
 
